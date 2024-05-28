@@ -1,9 +1,4 @@
-//
-//  EditFoodView.swift
-//  iCalories-IndentlyTutorial
-//
-//  Created by Shreyas Vilaschandra Bhike on 11/02/24.
-//
+
 
 import SwiftUI
 
